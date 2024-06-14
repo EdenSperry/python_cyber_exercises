@@ -1,0 +1,2 @@
+# 2. Password Strength Checker / Breaker
+# Challenge Description: Write a Python program to check the strength of a password based on predefined criteria (length, inclusion of numbers, uppercase and lowercase letters, and special characters).
