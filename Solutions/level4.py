@@ -63,6 +63,7 @@ if __name__ == "__main__":
 # Main Function: The main function demonstrates how to use the encrypt and decrypt functions. It collects input from the user, performs encryption, and then decrypts to verify the result.
 
 # Important Points
+# 97 (ASCII value of 'a') and 65 (ASCII value of 'A') are the starting positions of the lowercase and uppercase alphabets, respectively.
 # The use of modulo ( % ) ensures that the shifting wraps around the alphabet, so after 'z', it continues from 'a'.
 # The ord() function is used to convert a character to its ASCII numeric value, and chr() converts back from an ASCII value to a character.
 # The script only encrypts alphabetic characters, leaving other characters like spaces and punctuation unchanged.
