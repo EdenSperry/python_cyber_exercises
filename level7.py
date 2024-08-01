@@ -1,2 +1,2 @@
-# 6. SQL Injection
+# 7. SQL Injection
 # Challenge Description: Use SQLite to demonstrate how to prevent SQL injection with parameterized queries.
