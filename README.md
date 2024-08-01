@@ -47,9 +47,3 @@ git push origin feature-branch
 5. Create a Pull Request.
 
 Happy coding! If you have any questions or feedback, feel free to open an issue or contact the repository maintainers.
-
-
-
-
-
-
